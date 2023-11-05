@@ -1,0 +1,426 @@
+/* start width and height */
+.w-full {
+    width: 100%;
+}
+
+.w-fitt {
+    width: fit-content;
+}
+
+.h-full {
+    height: 100%;
+}
+
+/* end width and height */
+/* start box */
+.d-block {
+    display: block;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-space {
+    justify-content: space-between;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.row-revers {
+    flex-direction: row-reverse;
+}
+
+.flex-one {
+    flex: 1;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.d-grid {
+    display: grid;
+}
+
+.grid-gap {
+    gap: 20px;
+}
+
+/* end box */
+/* start background */
+.bg-eee {
+    background-color: #eee;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-blue {
+    background-color: #0075ff;
+}
+
+.bg-blue-opa {
+    background-color: #cce3ff;
+}
+
+.bg-gray {
+    background-color: #888;
+}
+
+.bg-red {
+    background-color: #f44336;
+}
+
+.bg-red-opa {
+    background-color: #fdd9d7;
+}
+
+.bg-orange {
+    background-color: #f59e0b;
+}
+
+.bg-orange-opa {
+    background-color: #fdecce;
+}
+
+.bg-green {
+    background-color: #22c55e;
+}
+
+.bg-green-opa {
+    background-color: #d3f3df;
+}
+
+.bg-twitter {
+    background-color: #1da1f2;
+}
+
+.c-black {
+    color: black;
+}
+
+.c-twitter {
+    color: #1da1f2;
+}
+
+.opacity-twitter {
+    background-color: #d2ecfc;
+}
+
+
+.bg-facebook {
+    background-color: #1877f2;
+}
+
+.c-facebook {
+    color: #1877f2;
+}
+
+.opacity-facbook {
+    background-color: #d1e4fc;
+}
+
+.bg-youtube {
+    background-color: #ff0000;
+}
+
+.c-youtube {
+    color: #ff0000;
+}
+
+.opacity-youtube {
+    background-color: #ffcccc;
+}
+
+.bg-linked {
+    background-color: #0077b5;
+}
+
+.c-linked {
+    color: #0077b5;
+}
+
+.opacity-linked {
+    background: #cce4f0;
+}
+
+.c-blue {
+    color: #0075ff;
+}
+
+.c-gray {
+    color: #888;
+}
+
+.c-red {
+    color: #f44336;
+}
+
+.c-orange {
+    color: #f59e0b;
+}
+
+.c-green {
+    color: #22c55e;
+}
+
+.c-white {
+    color: white;
+}
+
+/* end background */
+/* start border */
+.bord-rad-6 {
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+
+.bord-rad-10 {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.bord-rad-50 {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.bord-ccc {
+    border: 1px solid #ccc;
+}
+
+.bord-eee {
+    border: 1px solid #eee;
+}
+
+
+/* end border */
+/* start positions */
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+/* end positions */
+
+/* start padding + margin */
+.pd-20 {
+    padding: 20px;
+}
+
+.pd-15 {
+    padding: 15px;
+}
+
+.pd-10 {
+    padding: 10px;
+}
+
+.pd-5 {
+    padding: 5px;
+}
+
+.pt-10 {
+    padding-top: 10px;
+}
+
+.pt-15 {
+    padding-top: 15px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.mt-20 {
+    margin: 20px;
+}
+
+.m-15 {
+    margin: 15px;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+.mb-20 {
+    margin-bottom: 15px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.m-reset {
+    margin: 0;
+}
+
+/* end padding + margin */
+/* start fonts */
+.f-weight {
+    font-weight: bold;
+}
+
+.f-size {
+    font-size: 1.6rem;
+}
+
+.text-c {
+    text-align: center;
+}
+
+.text-end {
+    text-align: end;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+/* end fonts */
+/* start opacity */
+.opca {
+    opacity: 0.4;
+}
+
+/* end opacity */
+/* start mobile  */
+/* this framework won't work only in this media */
+
+@media (max-width: 767px) {
+    .hide-mobile {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .mobile-text-center {
+        text-align: center;
+    }
+}
+
+@media (max-width:767px) {
+    .center-flex-mobile {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .mobile-flex1 {
+        flex: 1;
+    }
+}
+
+@media (max-width: 767px) {
+    .block-mobile {
+        display: block;
+    }
+}
+
+@media (max-width:767px) {
+    .column-mobile {
+        flex-direction: column;
+    }
+}
+
+/* end mobile */
+/* start appearance radio and checkbox */
+.appear {
+    -webkit-appearance: none;
+    appearance: none;
+    display: none;
+}
+
+/* start appearance radio and checkbox */
+/* start compnent */
+.between-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.center-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-size: 2.2rem;
+}
+
+.title+span {
+    margin: 10px 0px 20px;
+    font-size: 1.5rem;
+    color: var(--gray-color);
+}
+
+.btn-shape {
+    width: fit-content;
+    padding: 4px 10px;
+    font-size: 1.4rem;
+    margin: 0px 0px 0px auto;
+    transition: var(--main-trans-due);
+    -webkit-transition: var(--main-trans-due);
+    -moz-transition: var(--main-trans-due);
+    -ms-transition: var(--main-trans-due);
+    -o-transition: var(--main-trans-due);
+    cursor: pointer;
+}
+
+/* end compnent */
